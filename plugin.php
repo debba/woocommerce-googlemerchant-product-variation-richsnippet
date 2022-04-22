@@ -1,7 +1,7 @@
 <?php
 /*
 * Plugin Name: Woocommerce Product Variation Rich Snippet Fix for Google Merchant Center
-* Plugin Uri: https://github.com/debba/woocommerce-cod-customers-only
+* Plugin Uri: https://github.com/debba/woocommerce-googlemerchant-product-variation-richsnippet
 * Description: Basic WooCommerce plugin that makes product variation rich snippets compliant with Google Merchant Center
 * Author: Andrea Debernardi
 * Author URI: https://www.dueclic.com
